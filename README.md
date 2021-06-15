@@ -11,7 +11,7 @@ of the [PACE 2021](https://pacechallenge.org/2021/) competition.
 * it is recommended to increase the jvm stack size when invoking the solver to prevent StackOverflowExceptions `java -Xss8m -jar ade-ce-solver-jar < <path to graph>`
 
 #### Solver description
-* (will be added later)
+* [Solver description](https://doi.org/10.5281/zenodo.4960094)
 
 #### Authors
 * Alexander Bille (Araxon)
